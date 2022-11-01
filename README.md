@@ -151,4 +151,5 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Đang thêm scoreboard trong contest.
 - Đang trong quá trình copy và dán code từ contests sang forums ;)
 - Thêm nút làm mới trong contest để tải lại nội dung từ contest.
+- Chỉnh sửa UI Contest.
 - Cập nhật to nhất từ trước đến nay (Code: Pinpoint)
