@@ -19,7 +19,6 @@
 - Giao diện dễ dùng, thống nhất.
 
 <h2 align="center">Nhật ký thay đổi</h2>
-<p align="center">Sẽ thay đổi theo ngày nếu ngày đó có tiến độ phát triển.</p>
 
 ## Cách truy cập bản đang phát triển (Phiên bản: 1.10.0Alpha Pinpoint):
 Bằng Windows (EXE, đang phát triển, khuyến nghị)
