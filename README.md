@@ -137,6 +137,7 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 ### Cập nhật ngày 01/11:
 - Chỉnh sửa một số mỗi nhất định.
 - Thêm nút đăng xuất.
+- Thêm thông báo đăng xuất.
 - Lại chỉnh sửa đồ họa ở trang đăng nhập.
 - Chính thức gọi tên "LayersTex COJ" (LayersTex Contest Online Judge) cho phần contests không công khai và "LayersTex CCOJ" (LayersTex Community Contest Online Judge) cho phần contests công khai cộng đồng:
   - Các chức năng cơ bản: COJ = CCOJ
