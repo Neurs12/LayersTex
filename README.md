@@ -18,9 +18,11 @@
 - Trong nhóm, mọi người có thể bàn luận, học tập. Chủ nhóm hoặc phụ trách nhóm có thể tạo bài tập, bài giảng...
 - Giao diện dễ dùng, thống nhất.
 
-<h2 align="center">Nhật ký thay đổi</h2>
+<h1 align="center">Nhật ký thay đổi</h1>
 
-## Cách truy cập bản đang phát triển (Phiên bản: 1.10.0Alpha Pinpoint):
+## Cách truy cập bản đang phát triển:
+Phiên bản: 1.10.0Alpha Pinpoint
+
 Bằng Windows (EXE, đang phát triển, khuyến nghị)
 
 [Bằng điện thoại Android (APK, khuyến nghị)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
