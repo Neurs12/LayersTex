@@ -168,4 +168,4 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Lại chỉnh sửa đồ họa ở trang đăng nhập.
 - Thêm nguồn dẫn tới trang Github.
 - Đang tiếp tục phát triển phần forum.
-- Đang tiếp tục dựng backend cho phần contest (Nguồn: )
+- Đang tiếp tục dựng backend cho phần contest.
