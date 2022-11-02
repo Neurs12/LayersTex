@@ -34,13 +34,13 @@
 ## Cách truy cập bản đang phát triển:
 Phiên bản: 1.10.0Alpha Pinpoint
 
-Bằng Windows (EXE, đang phát triển, khuyến nghị)
+- [ ] Bằng Windows (EXE, đang phát triển, khuyến nghị)
 
-[Bằng điện thoại Android (APK, khuyến nghị)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
+- [x] [Bằng điện thoại Android (APK, khuyến nghị)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
 
-Bằng điện thoại iOS (IPA, đang phát triển, khuyến nghị)
+- [ ] Bằng điện thoại iOS (IPA, đang phát triển, khuyến nghị)
 
-[Bằng trình duyệt (HTML)](https://Neurs12.github.io/LayersTex)
+- [x] [Bằng trình duyệt (HTML)](https://Neurs12.github.io/LayersTex)
 
 ### Cập nhật ngày 04/10:
 Làm một trang đăng nhập:
