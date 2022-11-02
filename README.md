@@ -32,14 +32,11 @@
 <h1 align="center">Nhật ký thay đổi</h1>
 
 ## Cách truy cập bản đang phát triển:
-Phiên bản: 1.10.0Alpha Pinpoint
+Phiên bản: 1.11.0Alpha Pinpoint
 
 - [ ] Bằng Windows (EXE, đang phát triển, khuyến nghị)
-
-- [x] [Bằng điện thoại Android (APK, khuyến nghị)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
-
+- [x] [Bằng điện thoại Android (APK, khuyến nghị, đang phát triển, còn nhiều lỗi)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
 - [ ] Bằng điện thoại iOS (IPA, đang phát triển, khuyến nghị)
-
 - [x] [Bằng trình duyệt (HTML)](https://Neurs12.github.io/LayersTex)
 
 ### Cập nhật ngày 04/10:
@@ -166,3 +163,9 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Thêm nút làm mới trong contest để tải lại nội dung từ contest.
 - Chỉnh sửa UI Contest.
 - Cập nhật to nhất từ trước đến nay (Code: Pinpoint)
+
+### Cập nhật ngày 02/11:
+- Lại chỉnh sửa đồ họa ở trang đăng nhập.
+- Thêm nguồn dẫn tới trang Github.
+- Đang tiếp tục phát triển phần forum.
+- Đang tiếp tục dựng backend cho phần contest (Nguồn: )
