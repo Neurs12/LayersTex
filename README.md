@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/assets/assets/images/logo.svg" width="25"/> LayersTex
 </h1>
 <p align="center">Dự án cá nhân mã nguồn mở, đa nền tảng về diễn đàn và học tập kiểm tra tin học. <br>Sản phẩm dự thi Khoa Học Kỹ thuật <br>Đơn vị hỗ trợ: <br>
-  <a target="_blank" href="https://thptchuyenlequydon.quangtri.edu.vn/">Trường Chuyên Lê Quý Đôn</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://thptchuyenlequydon.quangtri.edu.vn/">Trường Chuyên Lê Quý Đôn</a>
   <br>
-  <a target="_blank" href="https://thptchuyenlequydon.quangtri.edu.vn/">
+  <a target="_blank" rel="noopener noreferrer" href="https://thptchuyenlequydon.quangtri.edu.vn/">
     <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/s_logo.svg", height="60"/>
   </a>
   <br>
@@ -15,12 +15,12 @@
 <p align="center">Đang sử dụng các ngôn ngữ và ứng dụng:</p>
 
 <p align="center">
-  <a target="_blank" href="https://repl.it"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/replit.svg"/></a>
-  <a target="_blank" href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/mongodb.svg" height="35"/></a>
-  <a target="_blank" href="https://dart.dev"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/dart.svg" width="35"/></a>
-  <a target="_blank" href="https://flutter.dev"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/flutter.svg" width="35"/></a>
-  <a target="_blank" href="https://python.org"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/python.svg" width="35"/></a>
-  <a target="_blank" href="https://nodejs.org"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/nodejs.svg" width="35"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://repl.it"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/replit.svg"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/mongodb.svg" height="35"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://dart.dev"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/dart.svg" width="35"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://flutter.dev"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/flutter.svg" width="35"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://python.org"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/python.svg" width="35"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/nodejs.svg" width="35"/></a>
 </p>
 
 ## Kết quả mong đợi
