@@ -158,3 +158,8 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Thêm nguồn dẫn tới trang Github.
 - Đang tiếp tục phát triển phần forum.
 - Đang tiếp tục dựng backend cho phần contest.
+
+### Cập nhật ngày 03/11:
+- Hotfix lỗi.
+- Cập nhật mã nguồn mới.
+- Chỉnh sửa framework.
