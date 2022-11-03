@@ -160,6 +160,8 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Đang tiếp tục dựng backend cho phần contest.
 
 ### Cập nhật ngày 03/11:
+- Cập nhật chỉnh sửa hiệu năng.
 - Hotfix lỗi.
 - Cập nhật mã nguồn mới.
 - Chỉnh sửa framework.
+- Build lại từ đầu, tăng tốc độ xử lí.
