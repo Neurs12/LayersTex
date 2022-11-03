@@ -12,17 +12,6 @@
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/heart.svg"/> Chân thành cảm ơn mọi người đã tạo động lực làm nên sản phẩm này!
 </p>
 
-<p align="center">Đang sử dụng các ngôn ngữ và ứng dụng:</p>
-
-<p align="center">
-  <a href="https://repl.it"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/replit.svg"/></a>
-  <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/mongodb.svg" height="35"/></a>
-  <a href="https://dart.dev"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/dart.svg" width="35"/></a>
-  <a href="https://flutter.dev"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/flutter.svg" width="35"/></a>
-  <a href="https://python.org"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/python.svg" width="35"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/nodejs.svg" width="35"/></a>
-</p>
-
 ## Kết quả mong đợi
 - Có một diễn đàn chung cho tất cả mọi người.
 - Có thể tạo và tham gia nhóm.
