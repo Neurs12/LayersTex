@@ -165,3 +165,8 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Cập nhật mã nguồn mới.
 - Chỉnh sửa framework.
 - Build lại từ đầu, tăng tốc độ xử lí.
+
+### Cập nhật ngày 04-05/11:
+- Cập nhật tính tương thích giữa các màn hình.
+- Căn chỉnh lại giao diện.
+- Tăng tính ổn định.
