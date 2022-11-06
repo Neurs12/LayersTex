@@ -170,3 +170,8 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Cập nhật tính tương thích giữa các màn hình.
 - Căn chỉnh lại giao diện.
 - Tăng tính ổn định.
+
+### Cập nhật ngày 06/11:
+- Đã ổn định bản web, tiếp tục làm chức năng contest.
+  - Giao diện: Sẵn sàng.
+  - Server: Đang phát triển.
