@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/assets/assets/images/logo.svg" width="25"/> LayersTex
 </h1>
-<p align="center">Dự án cá nhân mã nguồn mở, đa nền tảng về diễn đàn và học tập kiểm tra tin học. <br>Sản phẩm dự thi Khoa Học Kỹ thuật <br>Đơn vị hỗ trợ: <br>
+<p align="center">Dự án cá nhân mã nguồn mở, đa nền tảng về diễn đàn và học tập kiểm tra tin học.<br>Sản phẩm dự thi Khoa Học Kỹ thuật <br>Đơn vị hỗ trợ: <br>
   <a href="https://thptchuyenlequydon.quangtri.edu.vn/">Trường Chuyên Lê Quý Đôn</a>
   <br>
   <a href="https://thptchuyenlequydon.quangtri.edu.vn/">
