@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/LayersTexCard.svg" width="700"/>
 </h1>
 <p align="center">Dự án cá nhân mã nguồn mở, đa nền tảng về diễn đàn và học tập kiểm tra tin học.<br>Sản phẩm dự thi Khoa Học Kỹ thuật <br>Đơn vị hỗ trợ: <br>
-  <a href="https://thptchuyenlequydon.quangtri.edu.vn/">Trường Chuyên Lê Quý Đôn</a>
-  <br>
   <a href="https://thptchuyenlequydon.quangtri.edu.vn/">
     <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/s_logo.svg", height="60"/>
   </a>
+  <br>
+  <a href="https://thptchuyenlequydon.quangtri.edu.vn/">Trường Chuyên Lê Quý Đôn</a>
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/heart.svg"/> Chân thành cảm ơn mọi người đã tạo động lực làm nên sản phẩm này!
