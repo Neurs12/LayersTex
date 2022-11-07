@@ -18,6 +18,8 @@
 - Trong nhóm, mọi người có thể bàn luận, học tập. Chủ nhóm hoặc phụ trách nhóm có thể tạo bài tập, bài giảng...
 - Giao diện dễ dùng, thống nhất.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/31346263/200223208-cd3224d5-b590-4ecc-bd94-9cc1b53771d7.png"/><p>
+
 <h1 align="center">Nhật ký thay đổi</h1>
 
 ## Cách truy cập bản đang phát triển:
