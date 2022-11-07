@@ -180,7 +180,7 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 
 ### Cập nhật ngày 07/11:
 - Chính thức loại bỏ Free Pascal ra khỏi trình chấm.
-- Phát triển LayersTex COJ thành công! Bước đầu tạo nên chức năng chính của LayersTex.
+- Phát triển trình chấm LayersTex COJ thành công! Bước đầu tạo nên chức năng chính của LayersTex.
 - Sẽ có rất nhiều lỗi, đang trong quá trình phát triển.
   - Ở Contest#1 của CLB Chuyên LQĐ, đã có chức năng nộp bài tích hợp vào bài "PRIME" của contest.
     - Đề bài: Cho 1 số, hãy in ra tất cả số nguyên tố nhỏ hơn số đó.
