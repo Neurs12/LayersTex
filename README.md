@@ -179,4 +179,4 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
   - Server: Đang phát triển.
 
 ### Cập nhật ngày 07/11:
-- Chính thức loại bỏ Free Pascal ra trình chấm.
+- Chính thức loại bỏ Free Pascal ra khỏi trình chấm.
