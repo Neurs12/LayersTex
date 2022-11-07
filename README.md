@@ -180,6 +180,7 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 
 ### Cập nhật ngày 07/11:
 - Sửa lỗi.
+- Xóa hoạt họa của contest khi mở ra, tránh gây khó chịu.
 - Chính thức loại bỏ Free Pascal ra khỏi trình chấm.
 - Phát triển trình chấm LayersTex COJ thành công! Bước đầu tạo nên chức năng chính của LayersTex.
 - Sẽ có rất nhiều lỗi, đang trong quá trình phát triển.
