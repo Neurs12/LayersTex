@@ -177,3 +177,6 @@ Tăng cường tính tương thích giữa các thiết bị khác nhau.
 - Đã ổn định bản web, tiếp tục làm chức năng contest.
   - Giao diện: Sẵn sàng.
   - Server: Đang phát triển.
+
+### Cập nhật ngày 07/11:
+- Chính thức loại bỏ Free Pascal ra trình chấm.
