@@ -193,3 +193,9 @@ Output:
 ```
 2 3 5 7 
 ```
+
+### Cập nhật ngày 10/11:
+- Chỉnh sửa lỗi ở server, nén dữ liệu gửi của server, giảm lượng băng thông.
+- Trình chấm đã được tách riêng khỏi file chính của server.
+- Tinh chỉnh thêm 1 số lỗi chấm để trả về kết quả.
+- Đang chuyển sang phần làm forum.
