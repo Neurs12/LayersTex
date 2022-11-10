@@ -3,10 +3,8 @@
 </h1>
 <p align="center">Đơn vị hỗ trợ: <br>
   <a href="https://thptchuyenlequydon.quangtri.edu.vn/">
-    <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/s_logo.svg", height="60"/>
+    <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/s_logo.svg", height="300"/>
   </a>
-  <br>
-  <a href="https://thptchuyenlequydon.quangtri.edu.vn/">Trường Chuyên Lê Quý Đôn</a>
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/heart.svg"/> Chân thành cảm ơn mọi người đã tạo động lực làm nên sản phẩm này!
