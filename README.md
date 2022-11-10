@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/LayersTexCard.svg" height="250"/>
 </h1>
-<p align="center">Đơn vị hỗ trợ: <br>
+<p align="center">
   <a href="https://thptchuyenlequydon.quangtri.edu.vn/">
     <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/s_logo.svg", height="300"/>
   </a>
