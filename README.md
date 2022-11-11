@@ -201,3 +201,8 @@ Output:
 - Trình chấm đã được tách riêng khỏi file chính của server.
 - Tinh chỉnh thêm 1 số lỗi chấm để trả về kết quả.
 - Đang chuyển sang phần làm forum.
+
+### Cập nhật ngày 11/11:
+- Vì không không có thời gian phát triển, chính thức đặt LayersTex Forum và chế độ cộng đồng thành Under Development và sẽ không được đưa vào bản thuyết trình.
+- Nếu được vào vòng tới sẽ tiếp tục phát triển LayersTex Forum và chế độ cộng đồng.
+- Phát triển tiếp theo sẽ tập trung vào LayersTex COJ.
