@@ -3,14 +3,14 @@
     <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/LayersTexCard.svg"/>
   </a>
 </h1>
-<h2 align="center">
+<h4 align="center">
   <a href="https://thptchuyenlequydon.quangtri.edu.vn/">
     <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/s_logo.svg"/>
   </a>
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/heart.svg"/> Chân thành cảm ơn mọi người đã tạo động lực làm nên sản phẩm này!
-</h2p>
+</h4>
 
 ## Kết quả mong đợi
 - Có một diễn đàn chung cho tất cả mọi người.
