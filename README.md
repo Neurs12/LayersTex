@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/stats.svg"/>
+  <img src="https://raw.githubusercontent.com/Neurs12/LayersTex/main/readmec/stats.svg" width="700"/>
   <img src="https://user-images.githubusercontent.com/31346263/200223208-cd3224d5-b590-4ecc-bd94-9cc1b53771d7.png"/>
 <p>
 
