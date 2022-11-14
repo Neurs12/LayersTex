@@ -32,7 +32,7 @@ Phiên bản: 1.15.0Alpha Pinpoint 14/11/2022
 - [ ] Bằng Windows (EXE, đang phát triển, khuyến nghị)
 - [x] [Bằng điện thoại Android (APK, khuyến nghị, đang phát triển, còn nhiều lỗi)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
 - [ ] Bằng điện thoại iOS (IPA, đang phát triển, khuyến nghị)
-- [x] [Bằng trình duyệt (HTML)](https://Neurs12.github.io/LayersTex)
+- [x] [Bằng trình duyệt (HTML, đang phát triển, lỗi ít nhất)](https://Neurs12.github.io/LayersTex)
 
 ### Cập nhật ngày 04/10:
 Làm một trang đăng nhập:
