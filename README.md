@@ -211,6 +211,8 @@ Output:
 - Nếu được vào vòng tới sẽ tiếp tục phát triển LayersTex Forum và chế độ cộng đồng.
 - Phát triển tiếp theo sẽ tập trung vào LayersTex COJ.
 
+## Cập nhật về hiệu năng và bug.
+
 ### Cập nhật ngày 12/11:
 - Cập nhật lại giao diện của phần hiển thị kết quả.
 - Đang làm phần bảng điểm và cập nhật chức năng.
