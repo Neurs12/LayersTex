@@ -218,3 +218,7 @@ Output:
 ### Cập nhật ngày 13/11:
 - Sử dụng trình xem PDF riêng, không dựa vào bản của Google Drive để tránh bất tiện không đáng có khi bỏ vào framework.
 - Đang làm phần bảng điểm và cập nhật chức năng.
+
+### Cập nhật ngày 15/11:
+- Sửa lại API của server, sửa lỗi khi sử dụng.
+- Đang làm phần bảng điểm và cập nhật chức năng.
