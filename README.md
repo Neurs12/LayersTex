@@ -223,5 +223,6 @@ Output:
 
 ### Cập nhật ngày 15/11:
 - Sửa lại API của server, sửa lỗi khi sử dụng.
+- Sửa API của android.
 - Chỉnh sửa lại phần xử lí đăng nhập.
 - Đang làm phần bảng điểm và cập nhật chức năng.
