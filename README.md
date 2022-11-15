@@ -27,7 +27,7 @@
 <h1 align="center">Nhật ký thay đổi</h1>
 
 ## Cách truy cập bản đang phát triển:
-Phiên bản: 1.15.0Alpha Pinpoint 14/11/2022
+Phiên bản: 1.15.0Alpha Pinpoint 15/11/2022
 
 - [ ] Bằng Windows (EXE, đang phát triển, khuyến nghị)
 - [x] [Bằng điện thoại Android (APK, khuyến nghị, đang phát triển, còn nhiều lỗi)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
@@ -221,4 +221,5 @@ Output:
 
 ### Cập nhật ngày 15/11:
 - Sửa lại API của server, sửa lỗi khi sử dụng.
+- Chỉnh sửa lại phần xử lí đăng nhập.
 - Đang làm phần bảng điểm và cập nhật chức năng.
