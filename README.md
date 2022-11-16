@@ -221,7 +221,11 @@ Output:
 - Đang làm phần bảng điểm và cập nhật chức năng.
 
 ### Cập nhật ngày 15/11:
-- Sửa lại API của server, sửa lỗi khi sử dụng.
+- Sửa lại framework chạy API của server, sửa lỗi khi sử dụng.
 - Sửa API của android.
 - Chỉnh sửa lại phần xử lí đăng nhập.
 - Đang làm phần bảng điểm và cập nhật chức năng.
+
+### Cập nhật ngày 16/11:
+- Cập nhật lại giao diện của contest.
+- Thêm duy trì lấy dữ liệu khi đang nộp code.
