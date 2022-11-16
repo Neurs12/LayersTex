@@ -228,4 +228,5 @@ Output:
 
 ### Cập nhật ngày 16/11:
 - Cập nhật lại giao diện của contest.
+- Thêm chức năng thu phóng cho PDF.
 - Thêm duy trì lấy dữ liệu khi đang nộp code.
