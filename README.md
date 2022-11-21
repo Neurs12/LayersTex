@@ -230,3 +230,6 @@ Output:
 - Cập nhật lại giao diện của contest.
 - Thêm một số chức năng cho điều khiển trang PDF.
 - Thêm duy trì lấy dữ liệu khi đang nộp code.
+
+### Cập nhật ngày 21/11:
+- Sửa lỗi, định hướng cách thức hoạt động của phần scoreboard.
