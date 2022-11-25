@@ -233,3 +233,6 @@ Output:
 
 ### Cập nhật ngày 21/11:
 - Sửa lỗi, định hướng cách thức hoạt động của phần scoreboard.
+
+### Cập nhật ngày 25/11:
+- Đã thêm scoreboard, hiện tại chỉ có thể xem điểm, đang bổ sung nhiều chức năng.
