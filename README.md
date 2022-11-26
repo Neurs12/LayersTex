@@ -236,3 +236,8 @@ Output:
 
 ### Cập nhật ngày 25/11:
 - Đã thêm scoreboard, hiện tại chỉ có thể xem điểm, đang bổ sung nhiều chức năng.
+
+### Cập nhật ngày 26/11:
+- Chỉnh sửa lỗi hiển thị scoreboard.
+- Sắp xếp sai vị trí thứ hạng.
+- Đang ổn định và bước vào giai đoạn cuối.
