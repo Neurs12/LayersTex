@@ -28,8 +28,8 @@
 ## Cách truy cập bản đang phát triển:
 Phiên bản: 1.20.0Alpha Windows 25/11/2022
 
-- [ ] Bằng Windows (EXE, đang phát triển, khuyến nghị)
-- [x] [Bằng điện thoại Android (APK, khuyến nghị, đang phát triển, còn nhiều lỗi)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
+- [x] [Bằng Windows (EXE, đang phát triển, khuyến nghị)](https://github.com/Neurs12/LayersTex/releases/download/1.20.0Alpha_Windows/WINDOWS.zip)
+- [x] [Bằng điện thoại Android (APK, khuyến nghị, đang phát triển, còn nhiều lỗi)](https://github.com/Neurs12/LayersTex/releases/download/1.20.0Alpha_Windows/app-release.apk)
 - [ ] Bằng điện thoại iOS (IPA, đang phát triển, khuyến nghị)
 - [x] [Bằng trình duyệt (HTML, đang phát triển, lỗi ít nhất)](https://Neurs12.github.io/LayersTex)
 
