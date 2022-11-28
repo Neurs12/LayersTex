@@ -26,7 +26,7 @@
 <h1 align="center">Nhật ký thay đổi</h1>
 
 ## Cách truy cập bản đang phát triển:
-Phiên bản: 1.15.0Alpha Pinpoint 25/11/2022
+Phiên bản: 1.20.0Alpha Windows 25/11/2022
 
 - [ ] Bằng Windows (EXE, đang phát triển, khuyến nghị)
 - [x] [Bằng điện thoại Android (APK, khuyến nghị, đang phát triển, còn nhiều lỗi)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/app-release.apk)
@@ -243,6 +243,7 @@ Output:
 - Đang ổn định và bước vào giai đoạn cuối.
 
 ### Cập nhật ngày 28/11:
+- Số phiên bản mới: 1.20.0Alpha Windows
 - ĐÃ CẬP NHẬT BẢN WINDOWS!
 - Đang bước vào bản Alpha phần 1.
 - Chính sửa thuật toán, tối ưu hóa các phần.
