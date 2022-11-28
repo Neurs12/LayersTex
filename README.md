@@ -241,3 +241,8 @@ Output:
 - Chỉnh sửa lỗi hiển thị scoreboard.
 - Sắp xếp sai vị trí thứ hạng.
 - Đang ổn định và bước vào giai đoạn cuối.
+
+### Cập nhật ngày 28/11:
+- ĐÃ CẬP NHẬT BẢN WINDOWS!
+- Đang bước vào bản Alpha phần 1.
+- Chính sửa thuật toán, tối ưu hóa các phần.
