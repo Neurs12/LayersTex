@@ -29,9 +29,9 @@
 Phiên bản: 1.20.0Alpha Windows 25/11/2022
 
 - [x] [Bằng Windows (EXE, đang phát triển, khuyến nghị)](https://github.com/Neurs12/LayersTex/releases/download/1.20.0Alpha_Windows/WINDOWS.zip)
+- [x] [Bằng trình duyệt (HTML, đang phát triển, lỗi ít nhất)](https://Neurs12.github.io/LayersTex)
 - [ ] Bằng điện thoại Android (APK, khuyến nghị, đang sửa lỗi không thể đăng nhập)
 - [ ] Bằng điện thoại iOS (IPA, đang phát triển, khuyến nghị)
-- [x] [Bằng trình duyệt (HTML, đang phát triển, lỗi ít nhất)](https://Neurs12.github.io/LayersTex)
 
 ### Cập nhật ngày 04/10:
 Làm một trang đăng nhập:
