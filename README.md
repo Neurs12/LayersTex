@@ -28,7 +28,10 @@
 ## Cách truy cập bản đang phát triển:
 Phiên bản: 1.20.0Alpha Windows 25/11/2022
 
-- [x] [Bằng Windows (EXE, đang phát triển, khuyến nghị)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/LayersTex%20Windows.zip)
+- [x] [Bằng Windows (EXE, đang phát triển, khuyến nghị, lỗi ít nhất)](https://raw.githubusercontent.com/Neurs12/LayersTex/main/LayersTex%20Windows.zip)
+    File .zip:
+    - MD5: 88814f7c3c08914e469db6f4d341095f
+    - SHA512: 6c7034fbfa2b7584058361833ad2a4dddb80f8a610a8f7e4c0cb316fd6bca39e5a94332ad3f89a85eaada23b32e11e9d6889536aa0e07390ffb9ae2146da3111
 - [x] [Bằng trình duyệt (HTML, đang phát triển, lỗi ít nhất)](https://Neurs12.github.io/LayersTex)
 - [ ] Bằng điện thoại Android (APK, khuyến nghị, đang sửa lỗi không thể đăng nhập)
 - [ ] Bằng điện thoại iOS (IPA, đang phát triển, khuyến nghị)
