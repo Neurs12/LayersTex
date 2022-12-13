@@ -247,3 +247,9 @@ Output:
 - ĐÃ CẬP NHẬT BẢN WINDOWS!
 - Đang bước vào bản Alpha phần 1.
 - Chính sửa thuật toán, tối ưu hóa các phần.
+
+### Cập nhật cuối của đợt I:
+- Phần I hiện tại cơ bản đã hoàn thành.
+- Fix bug đợt cuối, đã tái phát hành lại bản cho website.
+- Thêm nút làm mới cho phần contest của nhóm.
+- Đây là nhật kí cập nhật cuối cùng của dự án LayersTex - Phần I.
