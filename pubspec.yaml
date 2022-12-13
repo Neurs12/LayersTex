@@ -1,0 +1,45 @@
+name: layerstex
+description: Dự án mã nguồn mở, đa nền tảng về diễn đàn và học tập kiểm tra tin học.
+publish_to: none
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  google_sign_in: ^5.4.2
+  flutter_svg: ^1.1.5
+  flutter_staggered_animations: ^1.1.1
+  intl: ^0.17.0
+  url_launcher: ^6.1.6
+  syncfusion_flutter_pdfviewer: ^20.3.56
+  google_sign_in_dartio: ^0.2.1
+  window_size:
+    git:
+      url: https://github.com/google/flutter-desktop-embedding.git
+      path: plugins/window_size
+      ref: 7812516a5c1fc8ef379e244106953a2b534432b9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/login_illustrate_sideway.svg
+    - assets/images/login_illustrate.svg
+    - assets/images/Google_G_Logo.svg
+    - assets/images/logo.svg
+    - assets/images/python.svg
+    - assets/images/C++.svg
+    - assets/images/github.svg
+  fonts:
+    - family: Source Code Pro
+      fonts:
+        - asset: assets/fonts/SourceCodePro-Regular.ttf
